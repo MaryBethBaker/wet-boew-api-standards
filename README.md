@@ -1,7 +1,7 @@
 wet-boew-api-standards
 ======================
 
-Possible requirements for Government of Canada APIs based on the [White House standards](https://github.com/WhiteHouse/api-standards)
+Possible requirements for Government of Canada APIs based on the White House standards. Translation request has been submitted.
 
 * [Guidelines](#guidelines)
 * [Pragmatic REST](#pragmatic-rest)
@@ -18,13 +18,14 @@ Possible requirements for Government of Canada APIs based on the [White House st
 
 ## Guidelines
 
-This document provides guidelines and examples for White House Web APIs, encouraging consistency, maintainability, and best practices across applications. White House APIs aim to balance a truly RESTful API interface with a positive developer experience (DX).
+This document provides guidelines and examples for Web APIs, encouraging consistency, maintainability, and best practices across applications. White House APIs aim to balance a truly RESTful API interface with a positive developer experience (DX).
 
 This document borrows heavily from:
 * [Designing HTTP Interfaces and RESTful Web Services](http://munich2012.drupal.org/program/sessions/designing-http-interfaces-and-restful-web-services)
 * API Facade Pattern, by Brian Mulloy, Apigee
 * Web API Design, by Brian Mulloy, Apigee
 * [Fieldings Dissertation on REST](http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
+* The White House API standards (https://github.com/WhiteHouse/api-standards)
 
 ## Pragmatic REST
 
